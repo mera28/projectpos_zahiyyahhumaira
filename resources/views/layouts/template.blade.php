@@ -160,10 +160,10 @@
                         </li>
 
                         <li class="nav-item">
-                            <a href="#" class="nav-link {{ ($title==='Pembelian') ? 'active':'' }}">
+                            <a href="penjualan" target="_blank" class="nav-link {{ ($title==='Penjualan') ? 'active':'' }}">
                                 <i class="nav-icon fas fa-cash-register"></i>
                                 <p>
-                                    Pembelian
+                                    Penjualan
                                 </p>
                             </a>
                         </li>
@@ -197,7 +197,6 @@
                                 </li>
                             </ul>
                         </li>
-
 
 
                     </ul>
